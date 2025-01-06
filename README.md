@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm @rri47! 👋
 
 Welcome to my GitHub profile! I'm a passionate IT enthusiast and santri, diving into the world of programming, open-source, and ethical hacking. 🌟
 
