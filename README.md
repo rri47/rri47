@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate IT enthusiast and santri, diving 
 ---
 
 ## 🛠️ My Tech Stack
-- **Languages: ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-- **Tools: ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)
-- **Interests: Ethical hacking, software development, and open-source contributions.
+- Languages: ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+- Tools: ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)
+- Interests: Ethical hacking, software development, and open-source contributions.
 
 ---
 
